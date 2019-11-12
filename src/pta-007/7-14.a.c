@@ -2,7 +2,7 @@
 
 int main()
 {
-    int first, last, sum, count = 0;
+    int first=0, last=0, sum=0, count = 0;
     scanf("%d %d", &first, &last);
     int i;
 
